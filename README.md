@@ -34,11 +34,25 @@ Passionate about analyzing customer behavior, building data-driven solutions, an
 
 ---
 
-## 📈 Featured Projects
+## 📊 Featured Projects
+
+### 🔗 **Analysis Projects** (5 Major Projects)
+Comprehensive collection of data analysis projects including Sales Insights, Personal Finance, HR Analytics, and Cricket T20 Analysis.
+- [View Repository](https://github.com/Kunalattri0101/AnalysisProjects)
+
+**Includes:**
+- 📈 Sales Insights (SQL + Python)
+- 📊 Sales Insights Tableau Dashboard
+- 💼 Personal Finance Dashboard (Power BI)
+- 👥 HR Analytics
+- 🏏 Cricket T20 Analytics
+
+---
 
 ### 🔗 **Customer Churn Analysis**
-Comprehensive analysis of customer churn patterns and predictive modeling.
+Predictive analysis of customer churn patterns using Python and statistical methods.
 - [View Repository](https://github.com/Kunalattri0101/customer-crun_analysis)
+
 
 ### 📊 Data Analytics Projects
 Multiple projects analyzing real-world datasets and building insights.
@@ -64,7 +78,7 @@ Multiple projects analyzing real-world datasets and building insights.
 
 - 💼 **GitHub:** [github.com/Kunalattri0101](https://github.com/Kunalattri0101)
 - 📧 **Email:** kunalattri6846@gmail.com
-- 📱 **LinkedIn:** 
+- 📱 **LinkedIn:** [www.linkedin.com/in/kunal-attri-307b6a290]
 
 ---
 
